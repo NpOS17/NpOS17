@@ -27,7 +27,13 @@ A fictional 12-person company tenant: users, groups, and licensing, security and
 
 ## Technical skills
 
-Windows 10/11 · Windows Server 2022 · Active Directory · Group Policy · Microsoft 365 · TCP/IP · DNS · DHCP · VLANs · VPN · PowerShell · VMware · VirtualBox · Packet Tracer · Linux · Cisco · Python · YOLOv8 · OpenCV
+**Systems & support:** Windows 10/11 · Windows Server 2022 · Active Directory · Group Policy · Microsoft 365 · Microsoft Office · Desktop Support · IT Support & Troubleshooting · End-User Support · User Account Management · Computer Hardware · Customer Service
+
+**Networking:** TCP/IP · DNS · DHCP · VLANs · VPN · Cisco · Packet Tracer
+
+**Tools & platforms:** PowerShell · VMware · VirtualBox · Linux · Ticketing Systems (osTicket)
+
+**Data & development:** SQL · Database Management (DBMS) · Data Structures · Python · YOLOv8 · OpenCV · HTML/CSS · Web Design · Tally ERP with GST
 
 ## Education & certifications
 
