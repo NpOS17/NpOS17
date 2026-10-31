@@ -1,1 +1,95 @@
-PGgxIGFsaWduPSJjZW50ZXIiPkhpLCBJJ20gTmVlbCBQYXRlbDwvaDE+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5kZW1vbGFiLmNvbS8/bGluZXM9SVQrU3VwcG9ydCslMjYrU3lzdGVtcytBZG1pbmlzdHJhdGlvbjtOZXR3b3JraW5nKyU3QytBY3RpdmUrRGlyZWN0b3J5KyU3QytNaWNyb3NvZnQrMzY1O0NvbXB1dGVyK1N5c3RlbXMrVGVjaG5pY2lhbjtPcGVuK3RvK0lUK3N1cHBvcnQrcm9sZXMrYWNyb3NzK0NhbmFkYSZmb250PUZpcmErQ29kZSZwYXVzZT0xMjAwJmNvbG9yPTc0RkZFRCZiYWNrZ3JvdW5kPTE3MUY0NDAwJndpZHRoPTY0MCIgYWx0PSJJVCBTdXBwb3J0ICYgU3lzdGVtcyBBZG1pbmlzdHJhdGlvbiDCtyBOZXR3b3JraW5nIHwgQWN0aXZlIERpcmVjdG9yeSB8IE1pY3Jvc29mdCAzNjUgwrcgQ29tcHV0ZXIgU3lzdGVtcyBUZWNobmljaWFuIMK3IE9wZW4gdG8gSVQgc3VwcG9ydCByb2xlcyBhY3Jvc3MgQ2FuYWRhIiAvPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9PcGVuX3RvX1dvcmstSVRfU3VwcG9ydF9Sb2xlcy0xNzFGNDQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSIgYWx0PSJPcGVuIHRvIHdvcms6IElUIHN1cHBvcnQgcm9sZXMiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTG9jYXRpb24tU3VkYnVyeSxfT250YXJpby0xNzFGNDQ/c3R5bGU9Zm9yLXRoZS1iYWRnZSIgYWx0PSJTdWRidXJ5LCBPbnRhcmlvIiAvPgogIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2dpdGh1Yi9mb2xsb3dlcnMvTnBPUzE3P3N0eWxlPWZvci10aGUtYmFkZ2UmY29sb3I9MTcxRjQ0JmxvZ289Z2l0aHViIiBhbHQ9IkdpdEh1YiBmb2xsb3dlcnMiIC8+CjwvcD4KCi0tLQoKIyMgU1lTVEVNIElORk8KCmBgYHRleHQKdXNlciAgICAgICAgTmVlbCBQYXRlbCAoTnBPUzE3KQpsb2NhdGlvbiAgICBTdWRidXJ5LCBPbnRhcmlvLCBDYW5hZGEKZm9jdXMgICAgICAgSVQgU3VwcG9ydCDCtyBTeXN0ZW1zIEFkbWluaXN0cmF0aW9uIMK3IE5ldHdvcmtpbmcKZWR1Y2F0aW9uICAgQ29tcHV0ZXIgU3lzdGVtcyBUZWNobmljaWFuICYgTmV0d29ya2luZywgQ2FtYnJpYW4gQ29sbGVnZQogICAgICAgICAgICBEaXBsb21hIGluIENvbXB1dGVyIEFwcGxpY2F0aW9ucywgQmFyb2RhIEluc3RpdHV0ZSBvZiBUZWNobm9sb2d5CmNlcnRzICAgICAgIENpc2NvIEp1bmlvciBDeWJlcnNlY3VyaXR5IEFuYWx5c3QgwrcgQ2lzY28gSW50cm8gdG8gQ3liZXJzZWN1cml0eQpzdHVkeWluZyAgICBDb21wVElBIEErIChpbiBwcm9ncmVzcykKc3RhdHVzICAgICAgT3BlbiB0byBJVCBzdXBwb3J0IHJvbGVzIGFjcm9zcyBDYW5hZGE6IG9uLXNpdGUsIGh5YnJpZCwgcmVtb3RlCmxhbmd1YWdlcyAgIEVuZ2xpc2ggwrcgR3VqYXJhdGkgwrcgSGluZGkKYGBgCgojIyBUaGlzIElzIE1lCgpJIGxlYXJuIGJ5IGJ1aWxkaW5nLiBNeSBiYWNrZ3JvdW5kIGlzIGEgQ29tcHV0ZXIgU3lzdGVtcyBUZWNobmljaWFuICYgTmV0d29ya2luZyBkaXBsb21hIGZyb20gQ2FtYnJpYW4gQ29sbGVnZSwgYSBEaXBsb21hIGluIENvbXB1dGVyIEFwcGxpY2F0aW9ucywgQ2lzY28gY3liZXJzZWN1cml0eSBjZXJ0aWZpY2F0aW9ucywgYW5kIGhhbmRzLW9uIGhvbWUgbGFicywgbm90IGp1c3QgY291cnNld29yay4gSSBhbSB3b3JraW5nIHRvd2FyZCBteSBmaXJzdCBJVCBzdXBwb3J0IHJvbGUsIGFuZCBJIGJyaW5nIHJlYWwgZmlyc3QtY29udGFjdCBjdXN0b21lciBzZXJ2aWNlIGV4cGVyaWVuY2UgZnJvbSBzdXBlcnZpc2luZyBidXN5IHRlYW1zIGluIGhpZ2gtdm9sdW1lIGVudmlyb25tZW50cy4KCiMjIE15IFBlcmZlY3QgU3RhY2sKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9d2luZG93cyxsaW51eCx1YnVudHUscG93ZXJzaGVsbCxiYXNoLHZzY29kZSxnaXQsZ2l0aHViJnRoZW1lPWRhcmsiIGFsdD0iV2luZG93cywgTGludXgsIFVidW50dSwgUG93ZXJTaGVsbCwgQmFzaCwgVlMgQ29kZSwgR2l0LCBHaXRIdWIiIC8+CjwvcD4KPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1weXRob24sb3BlbmN2LG15c3FsLHNxbGl0ZSxodG1sLGNzcyxqcyZ0aGVtZT1kYXJrIiBhbHQ9IlB5dGhvbiwgT3BlbkNWLCBNeVNRTCwgU1FMaXRlLCBIVE1MLCBDU1MsIEphdmFTY3JpcHQiIC8+CjwvcD4KCioqU3lzdGVtcyAmIHN1cHBvcnQ6KiogV2luZG93cyAxMC8xMSDCtyBXaW5kb3dzIFNlcnZlciAyMDIyIMK3IEFjdGl2ZSBEaXJlY3RvcnkgwrcgR3JvdXAgUG9saWN5IMK3IE1pY3Jvc29mdCAzNjUgwrcgTWljcm9zb2Z0IE9mZmljZSDCtyBEZXNrdG9wIFN1cHBvcnQgwrcgSVQgU3VwcG9ydCAmIFRyb3VibGVzaG9vdGluZyDCtyBFbmQtVXNlciBTdXBwb3J0IMK3IFVzZXIgQWNjb3VudCBNYW5hZ2VtZW50IMK3IENvbXB1dGVyIEhhcmR3YXJlIMK3IEN1c3RvbWVyIFNlcnZpY2UKCioqTmV0d29ya2luZzoqKiBUQ1AvSVAgwrcgRE5TIMK3IERIQ1AgwrcgVkxBTnMgwrcgVlBOIMK3IENpc2NvIMK3IFBhY2tldCBUcmFjZXIKCioqVG9vbHMgJiBwbGF0Zm9ybXM6KiogUG93ZXJTaGVsbCDCtyBWTXdhcmUgwrcgVmlydHVhbEJveCDCtyBMaW51eCDCtyBUaWNrZXRpbmcgU3lzdGVtcyAob3NUaWNrZXQpCgoqKkRhdGEgJiBkZXZlbG9wbWVudDoqKiBTUUwgwrcgRGF0YWJhc2UgTWFuYWdlbWVudCAoREJNUykgwrcgRGF0YSBTdHJ1Y3R1cmVzIMK3IFB5dGhvbiDCtyBZT0xPdjggwrcgT3BlbkNWIMK3IEhUTUwvQ1NTIMK3IFdlYiBEZXNpZ24gwrcgVGFsbHkgRVJQIHdpdGggR1NUCgojIyBTaWduYWxzCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0ic2lnbmFscy1yYWRhci5zdmciIGFsdD0iU2tpbGwgc2lnbmFscyByYWRhcjogTmV0d29ya2luZyA4NSwgV2luZG93cyBTZXJ2ZXIgYW5kIEFEIDgwLCBJVCBTdXBwb3J0IDg1LCBNaWNyb3NvZnQgMzY1IDc1LCBDeWJlcnNlY3VyaXR5IDY1LCBMaW51eCA1NSIgd2lkdGg9IjUyMCIgLz4KPC9wPgoKIyMgUHJvamVjdHMKCioqQWN0aXZlIERpcmVjdG9yeSBEb21haW4gTGFiOiBXaW5kb3dzIFNlcnZlciAyMDIyKioKRG9tYWluIGNvbnRyb2xsZXIsIE9VLXN0cnVjdHVyZWQgdXNlciBwcm92aXNpb25pbmcsIEdyb3VwIFBvbGljeSwgRE5TLCBESENQLCBOVEZTIHBlcm1pc3Npb25zLCBhbmQgc2hhcmVkIGZvbGRlcnMuIEEgc21hbGwgY29tcGFueSBuZXR3b3JrIHRoYXQgYWN0dWFsbHkgcnVucy4KCioqTGl2ZSBPYmplY3QgRGV0ZWN0aW9uIEFwcDogUHl0aG9uKioKUmVhbC10aW1lIG9iamVjdCBkZXRlY3Rpb24gYW5kIHRyYWNraW5nIHRocm91Z2ggYSBjYW1lcmEgZmVlZCwgYnVpbHQgd2l0aCBZT0xPdjggYW5kIE9wZW5DVi4KCioqU21hbGwgQnVzaW5lc3MgTmV0d29yayBJbmZyYXN0cnVjdHVyZSBMYWIqKgpBIHNlZ21lbnRlZCBuZXR3b3JrIGJ1aWx0IG9uIG9uZSBsYXB0b3A6IGlzb2xhdGVkIHpvbmVzIHdpdGggVkxBTnMsIERIQ1AsIEROUywgcm91dGluZywgZmlyZXdhbGwgcG9saWN5LCBhbmQgV2ktRmkgZGVzaWduLCBwbHVzIGRvY3VtZW50YXRpb24gd2l0aCBtb25pdG9yaW5nLCBwYWNrZXQgYW5hbHlzaXMsIGFuZCBicmVhay9maXggZmF1bHQgc2NlbmFyaW9zLgoKKipNaWNyb3NvZnQgMzY1IEFkbWluaXN0cmF0aW9uIExhYioqCkEgZmljdGlvbmFsIDEyLXBlcnNvbiBjb21wYW55IHRlbmFudDogdXNlcnMsIGdyb3VwcywgYW5kIGxpY2Vuc2luZywgc2VjdXJpdHkgYW5kIGFjY2VzcyBjb250cm9scywgYSBzaGFyZWQgc3VwcG9ydCBtYWlsYm94LCBhIFRlYW1zIHNpdGUsIGFuZCBhIFNoYXJlUG9pbnQgc2l0ZSwgcGx1cyBvbmJvYXJkaW5nLCBvZmZib2FyZGluZywgYW5kIGFjY2VzcyB0cm91Ymxlc2hvb3RpbmcuCgojIyBHaXRIdWIgU3RhdHMKCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1wcm9maWxlLXN1bW1hcnktY2FyZHMudmVyY2VsLmFwcC9hcGkvY2FyZHMvc3RhdHM/dXNlcm5hbWU9TnBPUzE3JnRoZW1lPWRhcmsiIGFsdD0iTmVlbCBQYXRlbCdzIEdpdEh1YiBzdGF0cyIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9zdHJlYWstc3RhdHMuZGVtb2xhYi5jb20vP3VzZXI9TnBPUzE3JmJhY2tncm91bmQ9MTcxRjQ0JmJvcmRlcj03NEZGRUQmcmluZz03NEZGRUQmZmlyZT03NEZGRUQmY3VyclN0cmVha0xhYmVsPTc0RkZFRCZzaWRlTGFiZWxzPUZGRkZGRiZjdXJyU3RyZWFrTnVtPUZGRkZGRiZzaWRlTnVtcz1GRkZGRkYiIGFsdD0iTmVlbCBQYXRlbCdzIEdpdEh1YiBzdHJlYWsiIC8+CjwvcD4KCiMjIEJ1aWxkaW5nIE5leHQKCi0gKipGaW5pc2hpbmcgdGhlIElUIFN1cHBvcnQgTGFiIGluIFZpcnR1YWxCb3g6KiogU2VydmVyMDEgZG9tYWluIGNvbnRyb2xsZXIgcGx1cyBhIFdpbmRvd3MgMTEgY2xpZW50IGpvaW5pbmcgdGhlIGRvbWFpbiwgb3NUaWNrZXQgdGlja2V0aW5nLCBhbmQgYmFja3VwIGFuZCByZWNvdmVyeS4KLSAqKlNRTCB0byBkYXRhIGFuYWx5c2lzIHRyYWNrOioqIGN1cnJlbnRseSB3b3JraW5nIHRocm91Z2ggSk9JTnMsIGJ1aWxkaW5nIHRvd2FyZCBQb3dlciBCSSBkYXNoYm9hcmRzLgotICoqU2VydmljZSBkZXNrIHNpbXVsYXRvciBwcmFjdGljZToqKiB0aWNrZXQgaGFuZGxpbmcsIHRyaWFnZSwgYW5kIGRvY3VtZW50YXRpb24gZHJpbGxzLgoKIyMgRWR1Y2F0aW9uICYgQ2VydGlmaWNhdGlvbnMKCi0gQ29tcHV0ZXIgU3lzdGVtcyBUZWNobmljaWFuICYgTmV0d29ya2luZyBkaXBsb21hLCBDYW1icmlhbiBDb2xsZWdlICgyMDI0KQotIERpcGxvbWEgaW4gQ29tcHV0ZXIgQXBwbGljYXRpb25zLCBCYXJvZGEgSW5zdGl0dXRlIG9mIFRlY2hub2xvZ3kgKDIwMjIpCi0gQ2lzY28gSnVuaW9yIEN5YmVyc2VjdXJpdHkgQW5hbHlzdCBDYXJlZXIgUGF0aCDCtyBDaXNjbyBJbnRyb2R1Y3Rpb24gdG8gQ3liZXJzZWN1cml0eQotIENvbXBUSUEgQSsgKGluIHByb2dyZXNzKQoKIyMgQ29ubmVjdCBXaXRoIE1lCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbmVlbC1wYXRlbC1pdCI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tTmVlbF9QYXRlbC0wMDc3QjU/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgYWx0PSJMaW5rZWRJbiIgLz48L2E+CiAgPGEgaHJlZj0ibWFpbHRvOm5lZWxwOTQ3OEBnbWFpbC5jb20iPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLW5lZWxwOTQ3OEBnbWFpbC5jb20tRDE0ODM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nbWFpbCZsb2dvQ29sb3I9d2hpdGUiIGFsdD0iRW1haWwiIC8+PC9hPgo8L3A+Cg==
+<h1 align="center">Hi, I'm Neel Patel</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Computer+Systems+Technician;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=74FFED&background=171F4400&width=640" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-IT_Support_Roles-171F44?style=for-the-badge" alt="Open to work: IT support roles" />
+  <img src="https://img.shields.io/badge/Location-Sudbury,_Ontario-171F44?style=for-the-badge" alt="Sudbury, Ontario" />
+  <img src="https://img.shields.io/github/followers/NpOS17?style=for-the-badge&color=171F44&logo=github" alt="GitHub followers" />
+</p>
+
+---
+
+## SYSTEM INFO
+
+```text
+user        Neel Patel (NpOS17)
+location    Sudbury, Ontario, Canada
+focus       IT Support · Systems Administration · Networking
+education   Computer Systems Technician & Networking, Cambrian College
+            Diploma in Computer Applications, Baroda Institute of Technology
+certs       Cisco Junior Cybersecurity Analyst · Cisco Intro to Cybersecurity
+studying    CompTIA A+ (in progress)
+status      Open to IT support roles across Canada: on-site, hybrid, remote
+languages   English · Gujarati · Hindi
+```
+
+## This Is Me
+
+I learn by building. My background is a Computer Systems Technician & Networking diploma from Cambrian College, a Diploma in Computer Applications, Cisco cybersecurity certifications, and hands-on home labs, not just coursework. I am working toward my first IT support role, and I bring real first-contact customer service experience from supervising busy teams in high-volume environments.
+
+## My Perfect Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,bash,vscode,git,github&theme=dark" alt="Windows, Linux, Ubuntu, PowerShell, Bash, VS Code, Git, GitHub" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite,html,css,js&theme=dark" alt="Python, OpenCV, MySQL, SQLite, HTML, CSS, JavaScript" />
+</p>
+
+**Systems & support:** Windows 10/11 · Windows Server 2022 · Active Directory · Group Policy · Microsoft 365 · Microsoft Office · Desktop Support · IT Support & Troubleshooting · End-User Support · User Account Management · Computer Hardware · Customer Service
+
+**Networking:** TCP/IP · DNS · DHCP · VLANs · VPN · Cisco · Packet Tracer
+
+**Tools & platforms:** PowerShell · VMware · VirtualBox · Linux · Ticketing Systems (osTicket)
+
+**Data & development:** SQL · Database Management (DBMS) · Data Structures · Python · YOLOv8 · OpenCV · HTML/CSS · Web Design · Tally ERP with GST
+
+## Signals
+
+<p align="center">
+  <img src="signals-radar.svg" alt="Skill signals radar: Networking 85, Windows Server and AD 80, IT Support 85, Microsoft 365 75, Cybersecurity 65, Linux 55" width="520" />
+</p>
+
+## Projects
+
+**Active Directory Domain Lab: Windows Server 2022**
+Domain controller, OU-structured user provisioning, Group Policy, DNS, DHCP, NTFS permissions, and shared folders. A small company network that actually runs.
+
+**Live Object Detection App: Python**
+Real-time object detection and tracking through a camera feed, built with YOLOv8 and OpenCV.
+
+**Small Business Network Infrastructure Lab**
+A segmented network built on one laptop: isolated zones with VLANs, DHCP, DNS, routing, firewall policy, and Wi-Fi design, plus documentation with monitoring, packet analysis, and break/fix fault scenarios.
+
+**Microsoft 365 Administration Lab**
+A fictional 12-person company tenant: users, groups, and licensing, security and access controls, a shared support mailbox, a Teams site, and a SharePoint site, plus onboarding, offboarding, and access troubleshooting.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NpOS17&theme=dark" alt="Neel Patel's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=NpOS17&background=171F44&border=74FFED&ring=74FFED&fire=74FFED&currStreakLabel=74FFED&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Neel Patel's GitHub streak" />
+</p>
+
+## Building Next
+
+- **Finishing the IT Support Lab in VirtualBox:** Server01 domain controller plus a Windows 11 client joining the domain, osTicket ticketing, and backup and recovery.
+- **SQL to data analysis track:** currently working through JOINs, building toward Power BI dashboards.
+- **Service desk simulator practice:** ticket handling, triage, and documentation drills.
+
+## Education & Certifications
+
+- Computer Systems Technician & Networking diploma, Cambrian College (2024)
+- Diploma in Computer Applications, Baroda Institute of Technology (2022)
+- Cisco Junior Cybersecurity Analyst Career Path · Cisco Introduction to Cybersecurity
+- CompTIA A+ (in progress)
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neel-patel-it"><img src="https://img.shields.io/badge/LinkedIn-Neel_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:neelp9478@gmail.com"><img src="https://img.shields.io/badge/Email-neelp9478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
