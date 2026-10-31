@@ -21,10 +21,10 @@ I learn by building. My background is a Computer Systems Technician & Networking
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,vscode&theme=dark" alt="Windows, Linux, Ubuntu, PowerShell, VS Code" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,bash,vscode,git,github&theme=dark" alt="Windows, Linux, Ubuntu, PowerShell, Bash, VS Code, Git, GitHub" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github&theme=dark" alt="Python, MySQL, HTML, CSS, JavaScript, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite,html,css,js&theme=dark" alt="Python, OpenCV, MySQL, SQLite, HTML, CSS, JavaScript" />
 </p>
 
 **Systems & support:** Windows 10/11 · Windows Server 2022 · Active Directory · Group Policy · Microsoft 365 · Microsoft Office · Desktop Support · IT Support & Troubleshooting · End-User Support · User Account Management · Computer Hardware · Customer Service
@@ -52,7 +52,8 @@ A fictional 12-person company tenant: users, groups, and licensing, security and
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NpOS17&show_icons=true&bg_color=171F44&title_color=74FFED&icon_color=74FFED&text_color=FFFFFF&border_color=74FFED" alt="Neel Patel's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NpOS17&theme=dark" alt="Neel Patel's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=NpOS17&background=171F44&border=74FFED&ring=74FFED&fire=74FFED&currStreakLabel=74FFED&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Neel Patel's GitHub streak" />
 </p>
 
 ## Building Next
