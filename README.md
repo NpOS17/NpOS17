@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Neel Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=E82127&center=true&vCenter=true&background=171F4400&width=700" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Troubleshooting;Active+Directory+%C2%B7+Windows+Server+2022;Networking+%C2%B7+Microsoft+365;Open+to+IT+Roles+Across+Canada&font=JetBrains+Mono&pause=1000&color=E82127&center=true&vCenter=true&background=171F4400&width=760&height=50&size=24" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
 </p>
 
 <p align="center">
@@ -15,19 +15,20 @@
 
 ---
 
-## SYSTEM INFO
+## My Support Protocol
 
 ```text
-user        Neel Patel (NpOS17)
-location    Sudbury, Ontario, Canada
-focus       IT Support · Systems Administration · Networking
-education   Computer Systems Technician & Networking, Cambrian College
-            Diploma in Computer Applications, Baroda Institute of Technology
-certs       Cisco Junior Cybersecurity Analyst · Cisco Intro to Cybersecurity
-studying    CompTIA A+ (in progress)
-status      Open to IT support roles across Canada: on-site, hybrid, remote
-languages   English · Gujarati · Hindi
+when a ticket lands, I work it the same way every time:
+
+  1. LISTEN      hear the user out, in plain words
+  2. REPRODUCE   see the problem myself before touching anything
+  3. DIAGNOSE    simple cause first: cables, settings, logs
+  4. FIX         smallest change that solves it, then test it
+  5. DOCUMENT    write it down so the next fix is faster
+  6. FOLLOW UP   check back later: is it still working?
 ```
+
+That is how I run every lab I build, and how I will run every ticket I get.
 
 ## About Me
 
