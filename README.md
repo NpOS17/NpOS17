@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Neel Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&background=171F4400&width=700" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=0891B2&center=true&vCenter=true&background=171F4400&width=700" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
 </p>
 
 <p align="center">
