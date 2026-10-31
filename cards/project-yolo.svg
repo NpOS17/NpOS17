@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150">
+  <rect width="480" height="150" rx="12" fill="#171A20"/>
+  <rect width="6" height="150" rx="3" fill="#E82127"/>
+  <text x="28" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">Live Object Detection App</text>
+  <text x="28" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#C9CDD2">Real-time object detection and labelling from a</text>
+  <text x="28" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#C9CDD2">live camera feed, running on consumer hardware.</text>
+  <text x="28" y="126" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E82127">Python - YOLOv8 - OpenCV</text>
+</svg>
