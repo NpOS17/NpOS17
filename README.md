@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="neel-github-banner.png" alt="Neel Patel, IT Support and Systems Administration" width="100%" />
+  <img src="neel-github-banner-tesla.png" alt="Neel Patel, IT Support and Systems Administration" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Neel Patel</h1>
