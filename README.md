@@ -105,5 +105,6 @@ I learn by building. Computer Systems Technician & Networking diploma from Cambr
 <p align="center">
   <a href="https://www.linkedin.com/in/neel-patel-it"><img src="https://img.shields.io/badge/LinkedIn-Neel_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/__.neelpatel.__/"><img src="https://img.shields.io/badge/Instagram-Neel_Patel-171A20?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://muse.ai/s/neel-patel-portfolio-tomas-style-xzxx6m5xtl3huxh/44rs8uC9gN1nl-HjxoLSA9T-gfn27ZKRX8RhxAimXuw"><img src="https://img.shields.io/badge/Portfolio-Neel_Patel-171A20?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:neelp9478@gmail.com"><img src="https://img.shields.io/badge/Email-neelp9478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
