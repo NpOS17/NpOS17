@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Neel Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Computer+Systems+Technician;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=74FFED&background=171F4400&width=640" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Systems+Administration;Networking+%7C+Active+Directory+%7C+Microsoft+365;Open+to+IT+support+roles+across+Canada&font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&background=171F4400&width=700" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-IT_Support_Roles-171F44?style=for-the-badge" alt="Open to work: IT support roles" />
   <img src="https://img.shields.io/badge/Location-Sudbury,_Ontario-171F44?style=for-the-badge" alt="Sudbury, Ontario" />
-  <img src="https://img.shields.io/github/followers/NpOS17?style=for-the-badge&color=171F44&logo=github" alt="GitHub followers" />
 </p>
 
 ---
@@ -50,7 +49,7 @@ I learn by building. My background is a Computer Systems Technician & Networking
 ## Signals
 
 <p align="center">
-  <img src="signals-radar.svg" alt="Skill signals radar: Networking 85, Windows Server and AD 80, IT Support 85, Microsoft 365 75, Cybersecurity 65, Linux 55" width="520" />
+  <img src="https://quickchart.io/chart?width=620&height=470&backgroundColor=%23171F44&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Networking%22%2C%20%22Windows%20Server%20%26%20AD%22%2C%20%22IT%20Support%22%2C%20%22Microsoft%20365%22%2C%20%22Cybersecurity%22%2C%20%22Linux%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Signals%22%2C%20%22data%22%3A%20%5B85%2C%2080%2C%2085%2C%2075%2C%2065%2C%2055%5D%2C%20%22backgroundColor%22%3A%20%22rgba%28116%2C255%2C237%2C0.28%29%22%2C%20%22borderColor%22%3A%20%22%2374FFED%22%2C%20%22pointBackgroundColor%22%3A%20%22%2374FFED%22%2C%20%22borderWidth%22%3A%202%7D%5D%7D%2C%20%22options%22%3A%20%7B%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22max%22%3A%20100%2C%20%22min%22%3A%200%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba%28116%2C255%2C237%2C0.25%29%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba%28116%2C255%2C237%2C0.35%29%22%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%23FFFFFF%22%2C%20%22fontSize%22%3A%2015%7D%7D%2C%20%22legend%22%3A%20%7B%22display%22%3A%20false%7D%7D%7D" alt="Skill signals radar: Networking 85, Windows Server and AD 80, IT Support 85, Microsoft 365 75, Cybersecurity 65, Linux 55" width="520" />
 </p>
 
 ## Projects
