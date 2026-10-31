@@ -78,6 +78,13 @@ A fictional 12-person company tenant: users, groups, and licensing, security and
   <img src="https://streak-stats.demolab.com/?user=NpOS17&background=171F44&border=74FFED&ring=74FFED&fire=74FFED&currStreakLabel=74FFED&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Neel Patel's GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NpOS17/NpOS17/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/NpOS17/NpOS17/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
 ## Building Next
 
 - **Finishing the IT Support Lab in VirtualBox:** Server01 domain controller plus a Windows 11 client joining the domain, osTicket ticketing, and backup and recovery.
