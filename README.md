@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="neel-github-banner.png" alt="Neel Patel, IT Support and Systems Administration" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Neel Patel</h1>
 
 <p align="center">
@@ -69,6 +73,7 @@ A fictional 12-person company tenant: users, groups, and licensing, security and
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NpOS17&theme=dark" alt="Neel Patel's GitHub analytics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NpOS17&theme=dark" alt="Neel Patel's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=NpOS17&background=171F44&border=74FFED&ring=74FFED&fire=74FFED&currStreakLabel=74FFED&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Neel Patel's GitHub streak" />
 </p>
@@ -90,5 +95,6 @@ A fictional 12-person company tenant: users, groups, and licensing, security and
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neel-patel-it"><img src="https://img.shields.io/badge/LinkedIn-Neel_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/__.neelpatel.__/"><img src="https://img.shields.io/badge/Instagram-Neel_Patel-171F44?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:neelp9478@gmail.com"><img src="https://img.shields.io/badge/Email-neelp9478@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
