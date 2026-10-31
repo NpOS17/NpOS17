@@ -29,9 +29,17 @@ status      Open to IT support roles across Canada: on-site, hybrid, remote
 languages   English · Gujarati · Hindi
 ```
 
-## This Is Me
+## About Me
 
-I learn by building. My background is a Computer Systems Technician & Networking diploma from Cambrian College, a Diploma in Computer Applications, Cisco cybersecurity certifications, and hands-on home labs, not just coursework. I am working toward my first IT support role, and I bring real first-contact customer service experience from supervising busy teams in high-volume environments.
+I learn by building. Computer Systems Technician & Networking diploma from Cambrian College, a Diploma in Computer Applications, and Cisco cybersecurity certifications, backed by hands-on home labs, not just coursework.
+
+- 🔭 I'm currently building IT support home labs: Active Directory, networking, and Microsoft 365
+- 🌱 I'm currently learning CompTIA A+ and SQL for data analysis
+- 💬 Ask me about IT support, Active Directory, Windows Server, networking, and Microsoft 365
+- 💼 Background: supervising busy teams and first-contact customer service in high-volume environments
+- 🎯 Goal: my first IT support role, open to opportunities across Canada
+- 📫 Reach me at neelp9478@gmail.com
+- 📍 Sudbury, Ontario, Canada
 
 ## My Perfect Stack
 
@@ -58,17 +66,10 @@ I learn by building. My background is a Computer Systems Technician & Networking
 
 ## Projects
 
-**Active Directory Domain Lab: Windows Server 2022**
-Domain controller, OU-structured user provisioning, Group Policy, DNS, DHCP, NTFS permissions, and shared folders. A small company network that actually runs.
-
-**Live Object Detection App: Python**
-Real-time object detection and tracking through a camera feed, built with YOLOv8 and OpenCV.
-
-**Small Business Network Infrastructure Lab**
-A segmented network built on one laptop: isolated zones with VLANs, DHCP, DNS, routing, firewall policy, and Wi-Fi design, plus documentation with monitoring, packet analysis, and break/fix fault scenarios.
-
-**Microsoft 365 Administration Lab**
-A fictional 12-person company tenant: users, groups, and licensing, security and access controls, a shared support mailbox, a Teams site, and a SharePoint site, plus onboarding, offboarding, and access troubleshooting.
+| | |
+|---|---|
+| <img src="cards/project-ad.svg" alt="Active Directory Domain Lab" width="480" /> | <img src="cards/project-yolo.svg" alt="Live Object Detection App" width="480" /> |
+| <img src="cards/project-network.svg" alt="Small Business Network Lab" width="480" /> | <img src="cards/project-m365.svg" alt="Microsoft 365 Admin Lab" width="480" /> |
 
 ## GitHub Stats
 
