@@ -17,16 +17,9 @@
 
 ## My Support Protocol
 
-```text
-when a ticket lands, I work it the same way every time:
-
-  1. LISTEN      hear the user out, in plain words
-  2. REPRODUCE   see the problem myself before touching anything
-  3. DIAGNOSE    simple cause first: cables, settings, logs
-  4. FIX         smallest change that solves it, then test it
-  5. DOCUMENT    write it down so the next fix is faster
-  6. FOLLOW UP   check back later: is it still working?
-```
+<p align="center">
+  <img src="cards/support-protocol.svg" alt="My Support Protocol: 1. Listen, 2. Reproduce, 3. Diagnose, 4. Fix, 5. Document, 6. Follow Up" width="880" />
+</p>
 
 That is how I run every lab I build, and how I will run every ticket I get.
 
