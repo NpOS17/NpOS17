@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Neel Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Support+%26+Troubleshooting;Active+Directory+%C2%B7+Windows+Server+2022;Networking+%C2%B7+Microsoft+365;Open+to+IT+Roles+Across+Canada&font=JetBrains+Mono&pause=1000&color=E82127&center=true&vCenter=true&background=171F4400&width=760&height=50&size=24" alt="IT Support & Systems Administration · Networking | Active Directory | Microsoft 365 · Computer Systems Technician · Open to IT support roles across Canada" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Help+Desk+%26+IT+Support+Technician;Windows+11+%C2%B7+Active+Directory+%C2%B7+Microsoft+365;Listen.+Reproduce.+Diagnose.+Fix.+Document.;Sudbury,+Ontario+%C2%B7+Open+to+Work+Across+Canada&font=Fira+Code&weight=800&pause=1000&color=E82127&center=true&vCenter=true&background=171F4400&width=860&height=55&size=27" alt="Help Desk and IT Support Technician · Windows 11, Active Directory, Microsoft 365 · Listen, Reproduce, Diagnose, Fix, Document · Sudbury, Ontario, open to work across Canada" />
 </p>
 
 <p align="center">
