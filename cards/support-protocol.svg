@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="452" viewBox="0 0 880 452">
+  <rect width="880" height="452" rx="14" fill="#171A20"/>
+  <rect width="880" height="452" rx="14" fill="none" stroke="#E82127" stroke-opacity="0.35"/>
+  <text x="44" y="52" font-family="Verdana, Geneva, sans-serif" font-size="21" font-weight="bold" fill="#FFFFFF" letter-spacing="2">MY SUPPORT PROTOCOL</text>
+  <rect x="44" y="66" width="120" height="3" fill="#E82127"/>
+  <text x="44" y="94" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#C9D1D9">when a ticket lands, I work it the same way every time:</text>
+  <g>
+    <animate attributeName="opacity" values="0.22;1.0;1.0;0.22;0.22" keyTimes="0.0000;0.0292;0.1375;0.1667;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="91" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="111" r="15" fill="#E82127"/>
+    <text x="66" y="117" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="98" y="118" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">LISTEN</text>
+    <text x="262" y="118" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">hear the user out, in plain words</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0.22;0.22;1.0;1.0;0.22;0.22" keyTimes="0.0000;0.1667;0.1958;0.3042;0.3333;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="143" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="163" r="15" fill="#E82127"/>
+    <text x="66" y="169" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="98" y="170" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">REPRODUCE</text>
+    <text x="262" y="170" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">see the problem myself before touching anything</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0.22;0.22;1.0;1.0;0.22;0.22" keyTimes="0.0000;0.3333;0.3625;0.4708;0.5000;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="195" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="215" r="15" fill="#E82127"/>
+    <text x="66" y="221" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="98" y="222" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">DIAGNOSE</text>
+    <text x="262" y="222" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">simple cause first: cables, settings, logs</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0.22;0.22;1.0;1.0;0.22;0.22" keyTimes="0.0000;0.5000;0.5292;0.6375;0.6667;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="247" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="267" r="15" fill="#E82127"/>
+    <text x="66" y="273" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="98" y="274" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FIX</text>
+    <text x="262" y="274" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">smallest change that solves it, then test it</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0.22;0.22;1.0;1.0;0.22;0.22" keyTimes="0.0000;0.6667;0.6958;0.8042;0.8333;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="299" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="319" r="15" fill="#E82127"/>
+    <text x="66" y="325" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="98" y="326" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">DOCUMENT</text>
+    <text x="262" y="326" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">write it down so the next fix is faster</text>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0.22;0.22;1.0;1.0;0.22" keyTimes="0.0000;0.8333;0.8625;0.9708;1.0000" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <rect x="34" y="351" width="5" height="40" rx="2.5" fill="#E82127"/>
+    <circle cx="66" cy="371" r="15" fill="#E82127"/>
+    <text x="66" y="377" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">6</text>
+    <text x="98" y="378" font-family="Verdana, Geneva, sans-serif" font-size="17" font-weight="bold" fill="#FFFFFF" letter-spacing="1">FOLLOW UP</text>
+    <text x="262" y="378" font-family="Verdana, Geneva, sans-serif" font-size="14.5" fill="#C9D1D9">check back later: is it still working?</text>
+  </g>
+</svg>
